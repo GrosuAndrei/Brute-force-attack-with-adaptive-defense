@@ -30,11 +30,13 @@ opțiunile
 ********************************** IMPORTANT ****************************************
 
 *** 3 și 4 simulează atacul Brute force clasic, pentru aceste variante selectați utilizatorul admin 
+
 *** 5 și 6 simulează atacul Brute force după o listă de parole aflat în passwords.txt,  pentru aceste variante selectați utilizatorul andrei
 
 *************************************************************************************
 
 7 Șterge conținutul tabelei logs și permite deblocarea unui IP blocat deja de mecanismul de apărare.
+
 0 Finalizează execuția prograului
 
 
