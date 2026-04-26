@@ -18,6 +18,7 @@ Se va afișa următoarea secvență
 Alege:
 
 după selectarea opțiunilor 1-6 se va cere introducerea unui nume de utilizator
+
 În baza de date există 2 utilizatori andrei și admin
 
 parole setate: 
